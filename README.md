@@ -5,8 +5,7 @@
 
 ---
 
-### ⚙️ What I Do
-- Build responsive and modern websites  
+### ⚙️ What I Do 
 - Work across **Front-End** and **Back-End**  
 - Keep improving my code and learning new technologies  
 
