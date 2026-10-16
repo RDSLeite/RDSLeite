@@ -1,16 +1,16 @@
 👋 Hey, I'm Rui Duarte Silva Leite
+===
 
 💻 I'm a programming student passionate about building clean, efficient, and modern web projects.
-
-🚀 My goal is to become a Software Engineer and keep growing every single day — just like at the gym: consistent work, real results.
+🚀 My goal is to become a **Software engineer** and keep growing every single day — just like at the gym: consistent work, real results.
 
 ---
 
 ### ⚙️ What I Do
-- 🌐 Build and maintain responsive web applications across Front-End and Back-End.
-- 📚 Constantly learning new technologies, improving code quality, and sharpening logical thinking.
 
----
+* Work across **Front-End** and **Back-End**
+* Keep improving my code and learning new technologies
+
 
 ### 🎨 Front-End
 <p>
